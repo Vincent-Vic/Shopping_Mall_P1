@@ -1,0 +1,46 @@
+*.class
+
+#package file
+*.war
+*.ear
+
+#kdiff3 ignore
+*.orig
+
+#maven ignore
+target/
+/target
+
+#eclipse igonre
+.settings/
+.projetc
+.classpatch
+
+#project
+out/
+/out
+/out/*
+.idea
+target
+out/artifacts/iflagsMall_war_exploded/META-INF/MANIFEST.MF
+
+#idea
+.idea
+.idea/
+/.idea/
+/.idea
+*.ipr
+*.iml
+*.iws
+
+#temp file
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+#system ignore
+.DS_Store
+Thumbs.db
+
